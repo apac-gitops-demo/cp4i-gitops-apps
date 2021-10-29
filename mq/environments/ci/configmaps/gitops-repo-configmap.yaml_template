@@ -13,5 +13,5 @@ data:
   owner: ${GIT_ORG}
   parentdir: .
   protocol: https
-  repo: cp4i-gitops-apps.git
+  repo: cp4i-gitops-apps
   url: https://github.com/${GIT_ORG}/cp4i-gitops-apps.git
