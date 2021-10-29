@@ -13,5 +13,5 @@ data:
   owner: apac-gitops-demo
   parentdir: .
   protocol: https
-  repo: multi-tenancy-gitops-apps
+  repo: cp4i-gitops-apps.git
   url: https://github.com/apac-gitops-demo/cp4i-gitops-apps.git
